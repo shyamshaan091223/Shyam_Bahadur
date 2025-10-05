@@ -44,24 +44,6 @@ I specialize in:
 - ✅ Terraform Associate – HashiCorp Certified
 - 🧠 Preparing for: CKA & AZ-400 (Azure DevOps Engineer)
 
----
-
-## 🚀 Projects
-
-- [🔧 AKS Cluster with Terraform](https://github.com/shyambahadur/aks-terraform)
-- [🚀 CI/CD with GitHub Actions](https://github.com/shyambahadur/github-actions-demo)
-- [🔐 Secure Docker App Deployment](https://github.com/shyambahadur/docker-security-demo)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyambahadur&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyambahadur&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ## 📫 Let’s Connect
 
