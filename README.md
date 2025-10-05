@@ -16,7 +16,7 @@ I specialize in:
 
 ---
 
-## ⭐ My Mission
+## ⭐ My Job
 
 > To automate everything, simplify cloud infrastructure, and deliver software faster, safer, and with confidence.
 
@@ -42,7 +42,7 @@ I specialize in:
 
 - ✅ Microsoft Certified: Azure Administrator (AZ-104)
 - ✅ Terraform Associate – HashiCorp Certified
-- 🧠 Preparing for: CKA & AZ-400 (Azure DevOps Engineer)
+- 🧠 Certified Kubernetes Administrator (CKA)
 
 
 ## 📫 Let’s Connect
@@ -50,8 +50,8 @@ I specialize in:
 I'm always open to collaboration, learning, and sharing knowledge.
 
 - 🌐 [LinkedIn](https://linkedin.com/in/shyambahadur)
-- 📧 shyam.devops@gmail.com
-- 🧰 [GitHub Projects](https://github.com/shyambahadur)
+- 📧 shyamshaan091223@gmail.com
+- 🧰 [GitHub](https://github.com/shyambahadur)
 
 ---
 
